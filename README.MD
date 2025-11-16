@@ -22,7 +22,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/dsilvasantos9125/ebook-sql-de-alta-performance/blob/main/output/SQL%20de%20alta%20performance-1.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
